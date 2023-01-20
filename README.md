@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finding a career!
+- 🔭 I’m currently working as a Software Developer.
 - 🌱 I’m currently learning Computer Science at Fort Hays State University.
-- 🤔 I’m looking for help with remote work during COVID.
-- 💬 Ask me about life in Japan.
+- 💬 Ask me about life in Japan. I lived there for years.
 - 📫 How to reach me: You can email me at alex.t.hampton@outlook.com
 - ⚡ Fun fact: I worked as an EMT for years.
 
