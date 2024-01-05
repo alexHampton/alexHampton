@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning Computer Science at Fort Hays State University.
-- 💬 Ask me about life in Japan. I lived there for years.
+- 🌱 I’ve graduated with a B.S. in Computer Science at Fort Hays State University.
+- 💬 Ask me about life in Japan. I lived there for 5 years.
 - 📫 How to reach me: You can email me at alex.t.hampton@outlook.com
 - ⚡ Fun fact: I worked as an EMT for years.
 
