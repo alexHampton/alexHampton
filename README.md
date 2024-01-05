@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I worked as an EMT for years.
 
 ## Project Summary
-- [Personal Portfolio Website](http://alexhamptondevelopment.com/) | *Goes to my personal web page*
 - [Node/Express API with MongoDB](https://github.com/alexHampton/mongoexpress_states_proj) | CRUD on state fun facts.
 - [PHP with REST API](https://github.com/alexHampton/php-quote-project) | User can submit GET, PUT, POST, and DELETE requests to update DB of famous quotes.
 - [Multiplication Flash Cards](https://github.com/alexHampton/Back-End_php) | Flash Cards made in php with Sass.
