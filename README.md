@@ -9,6 +9,7 @@
 ## Project Summary
 ### Here's what I've been working on recently
 #### Learning React
+- [Grocery List](https://github.com/alexHampton/grocery_list) | List that allows add, delete, search, and check functionality.
 - [React Color Change Challenge](https://github.com/alexHampton/color_change_challenge) | Simple example of using state and passing it around some components.
 ### These are personal project I built prior to working professionally
 - [Node/Express API with MongoDB](https://github.com/alexHampton/mongoexpress_states_proj) | CRUD on state fun facts.
