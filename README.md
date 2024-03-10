@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I worked as an EMT for years.
 
 ## Project Summary
+### Here's what I've been working on recently
+#### Learning React
+
 ### These are personal project I built prior to working professionally
 - [Node/Express API with MongoDB](https://github.com/alexHampton/mongoexpress_states_proj) | CRUD on state fun facts.
 - [PHP with REST API](https://github.com/alexHampton/php-quote-project) | User can submit GET, PUT, POST, and DELETE requests to update DB of famous quotes.
