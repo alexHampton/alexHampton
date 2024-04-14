@@ -8,7 +8,8 @@
 
 ## Project Summary
 ### Here's what I've been working on recently
-#### Learning React
+#### Learning React / NextJS
+- [Dashboard](https://github.com/alexHampton/nextjs-dashboard) | Learn NextJS by building a dashboard (from nextjs.org).
 - [Grocery List](https://github.com/alexHampton/grocery_list) | List that allows add, delete, search, and check functionality.
 - [Fetch Data and Display Challenge](https://github.com/alexHampton/react_fetch_data) | Fetches data and displays it in json form.
 - [React Color Change Challenge](https://github.com/alexHampton/color_change_challenge) | Simple example of using state and passing it around some components.
